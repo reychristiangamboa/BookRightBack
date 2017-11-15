@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="colorAccent">@color/ColorPrimaryDark</item>
+
+        <!--use to make contextual action mode overlap the Toolbar-->
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:actionModeBackground">@color/ColorPrimaryDark</item>
+
+    </style>
+
+
+</resources>

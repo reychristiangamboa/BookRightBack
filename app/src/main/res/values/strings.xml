@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Book Right Back</string>
+    <string name="title_all_books">All</string>
+    <string name="title_borrowed_books">Borrowed</string>
+    <string name="title_history">History</string>
+    <string name="title_my_albums">Albums</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Romance</item>
+        <item>Comedy</item>
+        <item>Comics</item>
+        <item>Religion</item>
+        <item>Educational</item>
+        <item>Biography</item>
+        <item>Drama</item>
+        <item>Mystery</item>
+        <item>Horror</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item>Title</item>
+        <item>Author</item>
+        <item>Genre</item>
+    </string-array>
+</resources>
